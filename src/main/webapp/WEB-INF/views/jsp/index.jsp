@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Enterprise DevOps Solutions">
-    <title>E&E Technologies | DevOps Engineering</title>
+    <title>EE Technologies | DevOps Engineering</title>
 
     <spring:url value="/resources/core/css/hello.css" var="coreCss" />
     <spring:url value="/resources/core/css/bootstrap.min.css" var="bootstrapCss" />
