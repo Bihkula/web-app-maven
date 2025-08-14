@@ -106,12 +106,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.179.94.124:8081/repository/RBS-maven-app-snapshot/</url>
+	      <url>http://52.56.60.139:8081/repository/RBS-Maven-App-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.179.94.124:8081/repository/RBS-maven-app-snapshot/</url>
+	      <url>http://52.56.60.139:8081/repository/RBS-maven-app-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
